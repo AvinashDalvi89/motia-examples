@@ -13,7 +13,7 @@ pytest-xdist>=3.0.0
 # Real-time integration steps are optional and will gracefully handle missing dependencies.
 
 # Optional real-time integrations (install only if you want to use them):
-# supabase>=2.0.0
+supabase>=2.0.0
 firebase-admin>=6.0.0
 # websockets>=11.0.0
 # httpx>=0.24.0
